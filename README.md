@@ -91,6 +91,6 @@ I would contunue exploring about json and will be using them in future.This was 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [https://www.your-site.com](https://kurokurotho.github.io/card.github-io/)
+- Frontend Mentor - [@kurokurotho](https://www.frontendmentor.io/profile/kurokurotho))
+
