@@ -25,7 +25,7 @@ section{
 .balance{
     background-color: hsl(10, 79%, 65%);
     display: grid;
-    grid-template-columns: 150px 250px;
+    grid-template-columns: 150px 215px;
     grid:15px;
     align-items: center;
     justify-items: center;
@@ -117,7 +117,7 @@ hr{
 
 /* for the screen of min-width:1200px */
 
-@media  screen and (min-width:1200px){
+@media  screen and (min-width:1000px){
     body{
         margin: -212px 123px;
     } 
@@ -127,7 +127,10 @@ hr{
      }
      section{
         grid-template-columns: 500px;
-     }  
+     } 
+     .balance{
+        grid-template-columns: 150px 300px;
+     } 
      .heavy{
         font-weight: 700;
         font-size: 30px;
@@ -145,5 +148,7 @@ hr{
         
         grid-template-columns: repeat(7,50px);
     }
-    
+    .balance{
+        grid-template-columns: 150px 260px;
+    }
 }
