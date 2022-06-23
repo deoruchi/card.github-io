@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://your-solution-url.com](https://github.com/kurokurotho/card.github-io.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://your-live-site-url.com](https://kurokurotho.github.io/card.github-io/)
 
 ## My process
 
@@ -90,7 +90,5 @@ I would contunue exploring about json and will be using them in future.This was 
 
 
 ## Author
-
-- Website - [https://www.your-site.com](https://kurokurotho.github.io/card.github-io/)
 - Frontend Mentor - [@kurokurotho](https://www.frontendmentor.io/profile/kurokurotho)
 
