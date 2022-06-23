@@ -92,5 +92,5 @@ I would contunue exploring about json and will be using them in future.This was 
 ## Author
 
 - Website - [https://www.your-site.com](https://kurokurotho.github.io/card.github-io/)
-- Frontend Mentor - [@kurokurotho](https://www.frontendmentor.io/profile/kurokurotho))
+- Frontend Mentor - [@kurokurotho](https://www.frontendmentor.io/profile/kurokurotho)
 
